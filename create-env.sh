@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 cont_count=$1
 echo "creating $cont_count containers.."
 sleep 2;
